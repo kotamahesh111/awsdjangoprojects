@@ -39,7 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'app2.apps.App2Config',
-    'storages',
+    #'storages',
 ]
 
 MIDDLEWARE = [
